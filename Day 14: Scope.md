@@ -3,8 +3,8 @@ https://www.hackerrank.com/challenges/30-scope/problem
 
 ### Solution
 ```
-	init (a: [Int]){
-        self.elements = a
+init (a: [Int]){
+	self.elements = a
     }
     
     func computeDifference(){
