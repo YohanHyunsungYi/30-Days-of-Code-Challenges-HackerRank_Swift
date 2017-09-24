@@ -36,13 +36,13 @@
 
 ### [Day 18: Queues and Stacks](https://github.com/YohanHyunsungYi/30-Days-of-Code-Challenges-HackerRank_Swift/blob/master/Day%2018:%20Queues%20and%20Stacks.md)
 
-### [Day 19: Interfaces]()
+### [Day 19: Interfaces](https://github.com/YohanHyunsungYi/30-Days-of-Code-Challenges-HackerRank_Swift/blob/master/Day%2019:%20Interfaces.md)
 
-### [Day 20: Sorting]()
+### [Day 20: Sorting](https://github.com/YohanHyunsungYi/30-Days-of-Code-Challenges-HackerRank_Swift/blob/master/Day%2020:%20Sorting.md)
 
-### [Day 21: Generics]()
+### [Day 21: Generics](https://github.com/YohanHyunsungYi/30-Days-of-Code-Challenges-HackerRank_Swift/blob/master/Day%2021:%20Generics.md)
 
-### [Day 22: Binary Search Trees]()
+### [Day 22: Binary Search Trees](https://github.com/YohanHyunsungYi/30-Days-of-Code-Challenges-HackerRank_Swift/blob/master/Day%2022:%20Binary%20Search%20Trees.md)
 
 ### [Day 23: BST Level-Order Traversal]()
 
