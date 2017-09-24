@@ -4,37 +4,37 @@
 
 ### [Day 2: Operators](https://github.com/YohanHyunsungYi/30-Days-of-Code-Challenges-HackerRank_Swift/blob/master/Day%202:%20Operators.md)
 
-### [Day 3: Intro to Conditional Statements]()
+### [Day 3: Intro to Conditional Statements](https://github.com/YohanHyunsungYi/30-Days-of-Code-Challenges-HackerRank_Swift/blob/master/Day%203:%20Intro%20to%20Conditional%20Statements.md)
 
-### [Day 4: Class vs. Instance]()
+### [Day 4: Class vs. Instance](https://github.com/YohanHyunsungYi/30-Days-of-Code-Challenges-HackerRank_Swift/blob/master/Day%204:%20Class%20vs.%20Instance.md)
 
-### [Day 5: Loops]()
+### [Day 5: Loops](https://github.com/YohanHyunsungYi/30-Days-of-Code-Challenges-HackerRank_Swift/blob/master/Day%205:%20Loops.md)
 
-### [Day 6: Let's Review]()
+### [Day 6: Let's Review](https://github.com/YohanHyunsungYi/30-Days-of-Code-Challenges-HackerRank_Swift/blob/master/Day%206:%20Let's%20Review.md)
 
-### [Day 7: Arrays]()
+### [Day 7: Arrays](https://github.com/YohanHyunsungYi/30-Days-of-Code-Challenges-HackerRank_Swift/blob/master/Day%207:%20Arrays.md)
 
-### [Day 8: Dictionaries and Maps]()
+### [Day 8: Dictionaries and Maps](https://github.com/YohanHyunsungYi/30-Days-of-Code-Challenges-HackerRank_Swift/blob/master/Day%208:%20Dictionaries%20and%20Maps.md)
 
-### [Day 9: Recursion]()
+### [Day 9: Recursion](https://github.com/YohanHyunsungYi/30-Days-of-Code-Challenges-HackerRank_Swift/blob/master/Day%209:%20Recursion.md)
 
-### [Day 10: Binary Numbers]()
+### [Day 10: Binary Numbers](https://github.com/YohanHyunsungYi/30-Days-of-Code-Challenges-HackerRank_Swift/blob/master/Day%2010:%20Binary%20Numbers.md)
 
-### [Day 11: 2D Arrays]()
+### [Day 11: 2D Arrays](https://github.com/YohanHyunsungYi/30-Days-of-Code-Challenges-HackerRank_Swift/blob/master/Day%2011:%202D%20Arrays.md)
 
-### [Day 12: Inheritance]()
+### [Day 12: Inheritance](https://github.com/YohanHyunsungYi/30-Days-of-Code-Challenges-HackerRank_Swift/blob/master/Day%2012:%20Inheritance.md)
 
-### [Day 13: Abstract Classes]()
+### [Day 13: Abstract Classes](https://github.com/YohanHyunsungYi/30-Days-of-Code-Challenges-HackerRank_Swift/blob/master/Day%2013:%20Abstract%20Classes.md)
 
-### [Day 14: Scope]()
+### [Day 14: Scope](https://github.com/YohanHyunsungYi/30-Days-of-Code-Challenges-HackerRank_Swift/blob/master/Day%2014:%20Scope.md)
 
-### [Day 15: Linked List]()
+### [Day 15: Linked List](https://github.com/YohanHyunsungYi/30-Days-of-Code-Challenges-HackerRank_Swift/blob/master/Day%2015:%20Linked%20List.md)
 
-### [Day 16: Exceptions - String to Integer]()
+### [Day 16: Exceptions - String to Integer](https://github.com/YohanHyunsungYi/30-Days-of-Code-Challenges-HackerRank_Swift/blob/master/Day%2016:%20Exceptions%20-%20String%20to%20Integer.md)
 
-### [Day 17: More Exceptions]()
+### [Day 17: More Exceptions](https://github.com/YohanHyunsungYi/30-Days-of-Code-Challenges-HackerRank_Swift/blob/master/Day%2017:%20More%20Exceptions.md)
 
-### [Day 18: Queues and Stacks]()
+### [Day 18: Queues and Stacks](https://github.com/YohanHyunsungYi/30-Days-of-Code-Challenges-HackerRank_Swift/blob/master/Day%2018:%20Queues%20and%20Stacks.md)
 
 ### [Day 19: Interfaces]()
 
