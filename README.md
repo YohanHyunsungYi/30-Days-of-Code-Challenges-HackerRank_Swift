@@ -58,5 +58,5 @@ My Submission List
 
 ### [Day 28: RegEx, Patterns, and Intro to Databases]()
 
-### [Day 29: Bitwise AND]()
+### [Day 29: Bitwise AND]
 
